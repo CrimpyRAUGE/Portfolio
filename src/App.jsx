@@ -885,7 +885,7 @@ export default function Portfolio() {
               <p>2 years of B2B SaaS customer success experience combined with hands-on AI tooling skills.
               Download my resume to see the full picture.</p>
             </div>
-            <a href="#" className="btn-primary" onClick={e => { e.preventDefault(); alert("Upload your resume PDF to your project and link it here!"); }}>
+            <a href="#" className="btn-primary" onClick={e => { e.preventDefault(); alert("https://drive.google.com/file/d/1AmlQTS5FY_odl-pmurnR5zsGk4ohxR_B/view?usp=drivesdk"); }}>
               Download Resume →
             </a>
           </div>
